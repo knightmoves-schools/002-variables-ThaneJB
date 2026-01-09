@@ -1,7 +1,6 @@
 ﻿namespace knightmoves;
 public class Course
-{   
-    
+{  
     // Add your code here
     public int MaxStudents = 25;
 
